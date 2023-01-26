@@ -1,0 +1,16 @@
+
+body{
+    background-color: rgb(36, 36, 68);
+    color: aliceblue;
+}
+
+.perro{
+
+    
+    box-shadow: 1px 1px 30px 1px rgb(121, 219, 206);
+   
+}
+p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
